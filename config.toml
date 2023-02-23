@@ -1,4 +1,4 @@
 baseURL = 'http://nbmain.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Nbennett Landing Page'
 theme = 'hugo-theme-shell'

@@ -78,7 +78,7 @@ theme = 'hugo-theme-shell'
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["CV/Resume", "https://cv.nbennett.xyz/"],
-    ["Blog", "https://techrelay.xyz/"],
+    ["Blog", "https://techrelay.xyz/post"],
   ]
 
 [module]

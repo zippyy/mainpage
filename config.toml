@@ -1,4 +1,4 @@
-baseURL = 'http://nbmain.netlify.app/'
+baseURL = 'http://nbennett.xyz/'
 languageCode = 'en-us'
 title = 'Nbennett Landing Page'
 theme = 'hugo-theme-shell'
@@ -77,7 +77,7 @@ theme = 'hugo-theme-shell'
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["CV/Resume", "https://www.cv.nbennett.xyz/"],
+    ["CV/Resume", "https://cv.nbennett.xyz/"],
     ["Blog", "https://techrelay.xyz/"],
   ]
 

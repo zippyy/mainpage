@@ -74,7 +74,7 @@ theme = 'hugo-theme-shell'
 
   [Params.Tree]
   use = true
-  folderName = "my_activity"
+  folderName = "www"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["CV/Resume", "https://cv.nbennett.xyz/"],

@@ -2,6 +2,7 @@ baseURL = 'http://nbennett.xyz/'
 languageCode = 'en-us'
 title = 'Nbennett Landing Page'
 theme = 'hugo-theme-shell'
+googleAnalytics = "G-20K601QP34"
 
 [Params]
 
@@ -85,3 +86,4 @@ theme = 'hugo-theme-shell'
   [module.hugoVersion]
     extended = true
     min = "0.85.0"
+

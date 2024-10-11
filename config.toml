@@ -35,7 +35,7 @@ googleAnalytics = "G-20K601QP34"
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "Nick"
+  userName = "Nicholas"
   pcName = "Bennett"
   workDir = "Nbennett"
   profile = "About-Me.txt"
@@ -78,6 +78,7 @@ googleAnalytics = "G-20K601QP34"
   folderName = "www"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
+    ["Consulting Site", "https://techrelay.pro"]
     ["CV/Resume", "https://nbennett.pro/"],
     ["Blog", "https://techrelay.xyz/post"],
     ["Github", "https://github.com/zippyy"],
